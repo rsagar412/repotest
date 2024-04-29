@@ -1,3 +1,3 @@
 # repotest
  This is a testing repository <br>
- Author - Sagar Rathod
+ Author - Sagar Rathod (Finicity)
